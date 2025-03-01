@@ -1,0 +1,13 @@
+Numar total de muchii: 12
+Start: 1, Finish: 2, Cost: 2, Highlighted: Nu, Edge to: 2
+Start: 2, Finish: 1, Cost: 5, Highlighted: Nu, Edge to: 1
+Start: 4, Finish: 1, Cost: 5, Highlighted: Da, Edge to: 1
+Start: 3, Finish: 2, Cost: 2, Highlighted: Da, Edge to: 2
+Start: 4, Finish: 2, Cost: 3, Highlighted: Da, Edge to: 2
+Start: 3, Finish: 4, Cost: 3, Highlighted: Nu, Edge to: 4
+Start: 3, Finish: 5, Cost: 4, Highlighted: Nu, Edge to: 5
+Start: 3, Finish: 6, Cost: 2, Highlighted: Nu, Edge to: 6
+Start: 6, Finish: 3, Cost: 5, Highlighted: Nu, Edge to: 3
+Start: 5, Finish: 4, Cost: 5, Highlighted: Nu, Edge to: 4
+Start: 5, Finish: 6, Cost: 2, Highlighted: Nu, Edge to: 6
+Start: 6, Finish: 5, Cost: 5, Highlighted: Nu, Edge to: 5
