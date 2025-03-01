@@ -1,0 +1,8 @@
+C:/Users/Fabian Andronache/Documents/AG-QT/QT-TEMA3-Totala/build/Desktop_Qt_6_7_3_MSVC2019_64bit-Debug/CMakeFiles/QT-TEMA3-Totala.dir
+C:/Users/Fabian Andronache/Documents/AG-QT/QT-TEMA3-Totala/build/Desktop_Qt_6_7_3_MSVC2019_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Fabian Andronache/Documents/AG-QT/QT-TEMA3-Totala/build/Desktop_Qt_6_7_3_MSVC2019_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Fabian Andronache/Documents/AG-QT/QT-TEMA3-Totala/build/Desktop_Qt_6_7_3_MSVC2019_64bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Fabian Andronache/Documents/AG-QT/QT-TEMA3-Totala/build/Desktop_Qt_6_7_3_MSVC2019_64bit-Debug/CMakeFiles/install.dir
+C:/Users/Fabian Andronache/Documents/AG-QT/QT-TEMA3-Totala/build/Desktop_Qt_6_7_3_MSVC2019_64bit-Debug/CMakeFiles/install/local.dir
+C:/Users/Fabian Andronache/Documents/AG-QT/QT-TEMA3-Totala/build/Desktop_Qt_6_7_3_MSVC2019_64bit-Debug/CMakeFiles/QT-TEMA3-Totala_autogen_timestamp_deps.dir
+C:/Users/Fabian Andronache/Documents/AG-QT/QT-TEMA3-Totala/build/Desktop_Qt_6_7_3_MSVC2019_64bit-Debug/CMakeFiles/QT-TEMA3-Totala_autogen.dir
