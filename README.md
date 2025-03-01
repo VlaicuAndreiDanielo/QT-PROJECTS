@@ -42,8 +42,4 @@ This repository contains **six QT projects** that implement **graph algorithms w
 - **Minimum cost flow algorithm** for transporting a specified quantity in a network.  
 - **Generic and fully generic traversals** for graph exploration.  
 
----
-
-## 🤝 Contributions  
-This repository is open for contributions! Feel free to fork, improve, or suggest new features.  
 
