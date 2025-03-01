@@ -1,4 +1,4 @@
-# QT-Projects  
+# QT-PROJECTS  
 
 ## 📌 Overview  
 This repository contains **six QT projects** that implement **graph algorithms while preserving Object-Oriented Programming (OOP) principles** and solving various computational problems. Each project provides a graphical interface for interacting with different graph-related algorithms.  
